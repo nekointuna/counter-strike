@@ -1,0 +1,35 @@
+[en]
+RND_MSG = !y[AMXX] Round: !t%d !y- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[ro]
+RND_MSG = !y[AMXX] Runda: !t%d !y- Harta: !t%s !y| Jucatori: !g%d!y/!g%d !y!
+
+[es]
+RND_MSG = !y[AMXX] Ronda: !t%d !y- Mapa: !t%s !y| Jugadores: !g%d!y/!g%d !y!
+
+[de]
+RND_MSG = !y[AMXX] Runde: !t%d !y- Karte: !t%s !y| Spieler: !g%d!y/!g%d !y!
+
+[pl]
+RND_MSG = !y[AMXX] Runda: !t%d !y- Mapa: !t%s !y| Gracze: !g%d!y/!g%d !y!
+
+[fr]
+RND_MSG = !y[AMXX] Round : !t%d !y- Map : !t%s !y| Joueurs : !g%d!y/!g%d !y!
+
+[ru]
+RND_MSG = !y[AMXX] Raund: !t%d !y- Karta: !t%s !y| Igrokov: !g%d!y/!g%d !y!
+
+[nl]
+RND_MSG = !y[AMXX] Ronde: !t%d !y- Map: !t%s !y| Spelers: !g%d!y/!g%d !y!
+
+[bg]
+RND_MSG = !y[AMXX] Rund: !t%d !y- Karta: !t%s !y| Igrachi: !g%d!y/!g%d !y!
+
+[sv]
+RND_MSG = !y[AMXX] Runda: !t%d !y- Karta: !t%s !y| Spelare: !g%d!y/!g%d !y!
+
+[tr]
+RND_MSG = !y[AMXX] Round: !t%d !y- Harita: !t%s !y| Oyuncular: !g%d!y/!g%d !y!
+
+[bp]
+RND_MSG = !y[AMXX] Round: !t%d !y- Mapa: !t%s !y| Jogadores: !g%d!y/!g%d !y!
